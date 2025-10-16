@@ -161,17 +161,6 @@ Previous_week_Revenue = CALCULATE(
 - Power BI Desktop
 - CSV data files for customer and credit card details
 
-## Installation
-
-1. Set up your SQL database
-2. Create the required tables using the provided schema
-3. Import CSV files into the database
-4. Open Power BI Desktop
-5. Connect to your SQL database
-6. Import the data tables
-7. Apply the DAX measures provided above
-8. Build visualizations based on the key metrics
-
 ## Dashboard Components
 
 - Revenue trends and WoW comparison
@@ -188,15 +177,5 @@ Previous_week_Revenue = CALCULATE(
 3. Drill down into specific segments for detailed analysis
 4. Use filters to analyze by card type, geography, or customer segment
 
-## Contributing
 
-For questions or contributions, please contact the project stakeholders.
 
-## License
-
-Internal use only - Confidential business intelligence dashboard
-
----
-
-**Last Updated**: Week 53, 2024  
-**Dashboard Version**: 1.0
